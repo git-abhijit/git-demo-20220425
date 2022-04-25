@@ -1,2 +1,3 @@
 Hello World! 
 One more line
+File A is updated too!
